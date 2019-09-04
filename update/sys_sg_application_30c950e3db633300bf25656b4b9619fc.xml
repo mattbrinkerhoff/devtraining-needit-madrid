@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_application">
     <sys_sg_application action="INSERT_OR_UPDATE">
         <active>true</active>
-        <available_offline>false</available_offline>
+        <available_offline>true</available_offline>
         <default>false</default>
         <description>View and edit NeedIt records</description>
-        <icon display_value="window-maximize">e0c950e3db633300bf25656b4b9619e4</icon>
+        <icon display_value="gem">e0c950e3db633300bf25656b4b9619e4</icon>
         <name>NeedIt</name>
         <order/>
         <roles/>
@@ -12,14 +12,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-09-03 13:18:21</sys_created_on>
         <sys_id>30c950e3db633300bf25656b4b9619fc</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_name>NeedIt</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sys_sg_application_30c950e3db633300bf25656b4b9619fc</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-09-03 14:51:57</sys_updated_on>
+        <sys_updated_on>2019-09-04 18:58:43</sys_updated_on>
     </sys_sg_application>
     <sys_translated_text action="delete_multiple" query="documentkey=30c950e3db633300bf25656b4b9619fc"/>
 </record_update>
